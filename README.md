@@ -95,7 +95,9 @@
     width="20" 
     height="20" 
   />
+  &nbsp;
   Languages-Frameworks-Tools 
+  &nbsp;
   <img 
     loading="lazy" 
     src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
@@ -122,7 +124,9 @@
     width="20" 
     height="20" 
   /> 
-  Stats 
+  &nbsp;
+  Stats
+  &nbsp;
   <img 
     loading="lazy"
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
@@ -172,7 +176,9 @@
     width="20" 
     height="20" 
   />
+  &nbsp;
   Code Cycle
+  &nbsp;
   <img 
      loading="lazy" 
      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" 
