@@ -19,7 +19,7 @@
 <br />
 
 <div align="center">
-  <img align="right" loading="lazy" src="https://gist.githubusercontent.com/noushinpervez/b71c9e37de26da6827f5d0540fe766a8/raw/b77076aad00d7fc4632a4488d2e07f33246e8ba8/coding-animate.svg" alt="animated svg" width="300" />
+  <img align="right" loading="lazy" src="https://gist.githubusercontent.com/noushinpervez/b71c9e37de26da6827f5d0540fe766a8/raw/b77076aad00d7fc4632a4488d2e07f33246e8ba8/coding-animate.svg" alt="animated svg" width="320" />
 
   <div align="left">
     <p>
@@ -81,7 +81,7 @@
 
 <div align="center"> 
   <a href="mailto:noushinpervez@gmail.com" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-  <a href="https://www.linkedin.com/in/noushin-pervez" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/noushin-pervez/" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://noushin-pervez.web.app/" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="portfolio" /></a>
 </div>
 
@@ -158,7 +158,7 @@
   />
 
   <br />
-  
+
   <p align="center">
     <img loading="lazy" src="https://komarev.com/ghpvc/?username=noushinpervez&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
