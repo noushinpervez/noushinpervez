@@ -162,7 +162,7 @@
   <p align="center">
     <img loading="lazy" src="https://komarev.com/ghpvc/?username=noushinpervez&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile Views" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img loading="lazy" src="https://badges.pufler.dev/visits/noushinpervez/noushinpervez?color=black&logo=github&style=for-the-badge" alt="Visits" />
+<!--     <img loading="lazy" src="https://badges.pufler.dev/visits/noushinpervez/noushinpervez?color=black&logo=github&style=for-the-badge" alt="Visits" /> -->
   </p>
 </div>
 
