@@ -1,8 +1,8 @@
 <div align="center">
-  <img 
-    loading="lazy" 
-    src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&size=35&center=true&vCenter=true&width=600&height=50&duration=4000&lines=>+Hey+There!+👋;+>+I'm+Noushin+Pervez!;+>+Welcome+To+My+GitHub+Profile!;" 
-    alt="introduction" 
+  <img
+    loading="lazy"
+    src="https://readme-typing-svg.herokuapp.com/?font=Comfortaa&size=35&center=true&vCenter=true&width=600&height=50&duration=4000&lines=>+Hey+There!+👋;+>+I'm+Noushin+Pervez!;+>+Welcome+To+My+GitHub+Profile!;"
+    alt="introduction"
   />
 </div>
 
@@ -23,54 +23,42 @@
 
   <div align="left">
     <p>
-      <img 
-        loading="lazy" 
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" 
-        alt="Woman Technologist Light Skin Tone" 
-        width="16" 
-        height="16" 
-      />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="16" />
       &nbsp;
       I'm currently working as a <strong>Junior Software Engineer</strong> at <a href="https://www.raktch.com/" target="_blank" referrerPolicy="no-referrer">Raktch Technology & Software</a>
     </p>
     <p>
-      <img 
-        loading="lazy" 
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" 
-        alt="Woman Student Light Skin Tone" 
-        width="16" 
-        height="16" 
-      />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="16" />
       &nbsp;
       I studied <strong>Computer Science and Engineering</strong> with a <strong>Data Science</strong> major at <a href="https://www.ewubd.edu/" target="_blank" referrerPolicy="no-referrer">East West University</a>.
     </p>
     <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="16" height="16" />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="16" />
       &nbsp;
       I aspire to become a Full Stack Developer.
     </p>
     <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="16" height="16" />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="16" />
       &nbsp;
       I’m expanding my expertise in <strong>web development</strong> (frontend, backend, databases).
     </p>
     <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="16" height="16" />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="16" />
       &nbsp;
       I’m open to collaborating on <strong>projects</strong>.
     </p>
     <p>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="16" height="16" />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="16" />
       &nbsp;
       Feel free to ask me anything and I’ll do my best to help!
     </p>
     <p>
-      <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="16" height="16" />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="16" />
       &nbsp;
       You can find most of my projects on <a href="https://github.com/noushinpervez?tab=repositories" target="_blank" referrerPolicy="no-referrer">GitHub</a>.
     </p>
     <p>
-      <img loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="16" height="16" />
+      <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Page with Curl" width="16" />
       &nbsp;
       Check out my <a href="https://drive.google.com/file/d/1HWD5VWg6l9S0-ezWKi6ur_4OV_SJPelJ/view?usp=sharing" target="_blank" referrerPolicy="no-referrer">CV</a>.
     </p>
@@ -79,31 +67,32 @@
 
 <br />
 
-<div align="center"> 
+<div align="center">
   <a href="mailto:noushinpervez@gmail.com" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
   <a href="https://www.linkedin.com/in/noushin-pervez/" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://noushin-pervez.web.app/" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="portfolio" /></a>
+  <a href="https://scholar.google.com/citations?user=OwQWmIYAAAAJ&hl=en" target="_blank" referrerPolicy="no-referrer"><img loading="lazy" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" /></a>
 </div>
 
 <br />
 
 <h2 align="center">
-  <img 
-    loading="lazy" 
-    src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-    alt="Skills" 
-    width="20" 
-    height="20" 
+  <img
+    loading="lazy"
+    src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+    alt="Skills"
+    width="20"
+    height="20"
   />
   &nbsp;
-  Languages-Frameworks-Tools 
+  Languages-Frameworks-Tools
   &nbsp;
-  <img 
-    loading="lazy" 
-    src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" 
-    alt="Skills" 
-    width="20" 
-    height="20" 
+  <img
+    loading="lazy"
+    src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
+    alt="Skills"
+    width="20"
+    height="20"
   />
 </h2>
 
@@ -116,45 +105,35 @@
 
 <br />
 
-<h2 align="center">
-  <img 
-    loading="lazy"
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
-    alt="High Voltage" 
-    width="20" 
-    height="20" 
-  /> 
-  &nbsp;
-  Stats
-  &nbsp;
-  <img 
-    loading="lazy"
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" 
-    alt="High Voltage" 
-    width="20" 
-    height="20" 
-  />
-</h2>
+<div align="center">
+  <h2>
+    <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="16" />
+    &nbsp;
+    Stats
+    &nbsp;
+    <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="16" />
+  </h2>
+</div>
 
 <div align="center">
-  <img 
+  <img
     loading="lazy"
-    width="390" 
-    src="https://github-readme-stats-noushinpervez.vercel.app/api?username=noushinpervez&include_all_commits=true&count_private=true&show_icons=true&theme=react&bg_color=ffffff00&text_color=718CA1&rank_icon=github&hide_border=true&hide=prs,issues" 
-    alt="stats" 
+    width="390"
+    src="https://github-readme-stats-noushinpervez.vercel.app/api?username=noushinpervez&include_all_commits=true&count_private=true&show_icons=true&theme=react&bg_color=ffffff00&text_color=718CA1&rank_icon=github&hide_border=true&hide=prs,issues"
+    alt="stats"
   />
-  <img 
-    loading="lazy" 
-    width="390" 
-    src="https://github-readme-streak-stats-noushin.vercel.app/?user=noushinpervez&count_private=true&theme=react&background=ffffff00&dates=718CA1&stroke=718CA1&include_all_commits=true&hide_border=true" 
+  <img
+    loading="lazy"
+    width="390"
+    src="https://github-readme-streak-stats-noushin.vercel.app/?user=noushinpervez&count_private=true&theme=react&background=ffffff00&dates=718CA1&stroke=718CA1&include_all_commits=true&hide_border=true"
     alt="streak stats"
   />
-  
-  <img 
+
+<img
     loading="lazy"
-    width="300" 
-    src="https://github-readme-stats-noushinpervez.vercel.app/api/top-langs/?username=noushinpervez&count_private=true&langs_count=16&layout=compact&theme=react&bg_color=ffffff00&text_color=718CA1&size_weight=0.5&count_weight=0.5&hide_border=true&include_all_commits=true" 
-    alt="most used languages" 
+    width="300"
+    src="https://github-readme-stats-noushinpervez.vercel.app/api/top-langs/?username=noushinpervez&count_private=true&langs_count=16&layout=compact&theme=react&bg_color=ffffff00&text_color=718CA1&size_weight=0.5&count_weight=0.5&hide_border=true&include_all_commits=true"
+    alt="most used languages"
   />
 
   <br />
@@ -168,25 +147,15 @@
 
 <br />
 
-<h2 align="center">
-  <img 
-    loading="lazy" 
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" 
-    alt="Hourglass Not Done" 
-    width="20" 
-    height="20" 
-  />
-  &nbsp;
-  Code Cycle
-  &nbsp;
-  <img 
-     loading="lazy" 
-     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" 
-     alt="Hourglass Done" 
-     width="20" 
-     height="20" 
-  />
-<h2>
+<div align="center">
+  <h2>
+    <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Not%20Done.png" alt="Hourglass Not Done" width="16" />
+    &nbsp;
+    Code Cycle
+    &nbsp;
+    <img align="center" loading="lazy" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="16" />
+  </h2>
+</div>
 
 <br />
 
